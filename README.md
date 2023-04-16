@@ -1,1 +1,1 @@
-# seleniumJavaCourseExamples
+# Selenium Java examples from Intellipat course
